@@ -610,5 +610,4 @@ BRKTGG/
 ├── ui-debug.log
 ├── vercel.json
 └── yarn.lock
-
 ```

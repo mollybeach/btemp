@@ -557,7 +557,6 @@ BRKTGG/
 │   │   │   │   └── page.tsx
 │   │   ├── Rewards/
 │   │   │   └── page.tsx
-│   │   ├── .DS_Store
 │   │   ├── config.ts
 │   │   ├── globals.css
 │   │   ├── layout.tsx

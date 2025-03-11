@@ -13,7 +13,7 @@ BRKT is an online platform that facilitates competitive gaming, prediction marke
 - Users can join competitions by placing bets using cryptocurrency.
 - Custom competitions allow users to create and manage their own events.
 
-### Blockchain Integration
+### Blockchain Integrationm,
 - The platform uses Ethereum & Aptos blockchains for transparency.
 - Ethers.js interacts with smart contracts for bet placements.
 - Gas fees are managed via gas limits in competitions.

@@ -3,7 +3,7 @@
 # Project Overview
 
 ## What is BRKT?
-BRKT is an online platform that facilitates competitive gaming, prediction markets, and betting competitions. It integrates blockchain technology to provide a transparent, trustless betting experience.
+BRKT is an online platform that facilitates competitive gaming, prediction markets, and betting competitions. It integrates blockchain technology to provide a transparent, trustless betting experience
 
 (BRKT WEBSITE)[https://www.brkt.gg]
 

@@ -11,7 +11,7 @@ BRKT is an online platform that facilitates competitive gaming, prediction marke
 
 ### Users Participate in Competitions
 - Users can join competitions by placing bets using cryptocurrency.
-- Custom competitions allow users to create and manage their own events.
+- Custom competitions allow users to create and manage their own events
 
 ### Blockchain Integrationm,
 - The platform uses Ethereum & Aptos blockchains for transparency.
